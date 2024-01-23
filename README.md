@@ -1,5 +1,4 @@
-# SuspicionDetector
-computer vision side project 
+# SuspicionDetector (Computer vision side project)
 #The Problem:
 - 
 people not being active and just idley standing by raise suspicion as their motives are unknown. Those who are waiting an unreasonable amount of time must be watched closely.
